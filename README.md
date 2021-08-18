@@ -1,7 +1,7 @@
 # [HTML5 Boilerplate](https://html5boilerplate.com/)
 
-[![Build status](https://github.com/h5bp/html5-boilerplate/workflows/Build%20status/badge.svg)](https://github.com/h5bp/html5-boilerplate/actions?query=workflow%3A%22Build+status%22+branch%3Amaster)
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
+[![Build status](https://github.com/h5bp/html5-boilerplate/workflows/Build%20status/badge.svg)](https://github.com/h5bp/html5-boilerplate/actions?query=workflow%3A%22Build+status%22+branch%3Amain)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/h5bp/html5-boilerplate/blob/main/LICENSE.txt)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
 [![NPM Downloads](https://img.shields.io/npm/dt/html5-boilerplate.svg)](https://www.npmjs.com/package/html5-boilerplate)
 [![github-stars-image](https://img.shields.io/github/stars/h5bp/html5-boilerplate.svg?label=github%20stars)](https://github.com/h5bp/html5-boilerplate)
@@ -66,7 +66,7 @@ Choose one of the following options:
   research and experimentation by over 200 contributors.
 * Designed with progressive enhancement in mind.
 * Includes:
-  * [`Normalize.css`](https://necolas.github.com/normalize.css/)
+  * [`Normalize.css`](https://necolas.github.io/normalize.css/)
     for CSS normalizations and common bug fixes
   * A custom build of [`Modernizr`](https://modernizr.com/) for feature
     detection
